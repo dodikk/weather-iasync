@@ -1,0 +1,3 @@
+[submodule "lib/iAsync"]
+	path = lib/iAsync
+	url = https://github.com/EmbeddedSources/iAsync.git
